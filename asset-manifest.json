@@ -1,17 +1,13 @@
 {
   "files": {
     "main.css": "/reactchat/static/css/main.97f0d636.css",
-    "main.js": "/reactchat/static/js/main.add8c07d.js",
-    "static/js/190.3ca4e883.chunk.js": "/reactchat/static/js/190.3ca4e883.chunk.js",
+    "main.js": "/reactchat/static/js/main.8d381af9.js",
+    "static/js/190.614d5098.chunk.js": "/reactchat/static/js/190.614d5098.chunk.js",
     "static/js/325.ee8c18b9.chunk.js": "/reactchat/static/js/325.ee8c18b9.chunk.js",
-    "static/js/372.ee5f093c.chunk.js": "/reactchat/static/js/372.ee5f093c.chunk.js",
-    "static/js/322.7e2f6aae.chunk.js": "/reactchat/static/js/322.7e2f6aae.chunk.js",
-    "static/js/216.60982dca.chunk.js": "/reactchat/static/js/216.60982dca.chunk.js",
-    "static/js/339.1ad69152.chunk.js": "/reactchat/static/js/339.1ad69152.chunk.js",
-    "static/js/819.8db99054.chunk.js": "/reactchat/static/js/819.8db99054.chunk.js",
-    "static/js/72.9d1a6ae7.chunk.js": "/reactchat/static/js/72.9d1a6ae7.chunk.js",
-    "static/js/55.8316ac5d.chunk.js": "/reactchat/static/js/55.8316ac5d.chunk.js",
-    "static/js/282.2b8715a5.chunk.js": "/reactchat/static/js/282.2b8715a5.chunk.js",
+    "static/js/372.f2b66e57.chunk.js": "/reactchat/static/js/372.f2b66e57.chunk.js",
+    "static/js/322.a5fbf632.chunk.js": "/reactchat/static/js/322.a5fbf632.chunk.js",
+    "static/js/339.ae02abd4.chunk.js": "/reactchat/static/js/339.ae02abd4.chunk.js",
+    "static/js/842.caee92dc.chunk.js": "/reactchat/static/js/842.caee92dc.chunk.js",
     "static/media/girls.png": "/reactchat/static/media/girls.9177571f186deda0ab7f.png",
     "static/media/girl-7.jpg": "/reactchat/static/media/girl-7.de81aeded5aabe263a04.jpg",
     "static/media/girl-6.jpg": "/reactchat/static/media/girl-6.faa10fa8269696c99b0d.jpg",
@@ -34,20 +30,16 @@
     "static/media/nextBtn.svg": "/reactchat/static/media/nextBtn.44be87ef76aa5b4041e3fa8cce0e5ecc.svg",
     "static/media/prevBtn.svg": "/reactchat/static/media/prevBtn.77c0b961a87f3cb3ea5f847a8204ea4a.svg",
     "main.97f0d636.css.map": "/reactchat/static/css/main.97f0d636.css.map",
-    "main.add8c07d.js.map": "/reactchat/static/js/main.add8c07d.js.map",
-    "190.3ca4e883.chunk.js.map": "/reactchat/static/js/190.3ca4e883.chunk.js.map",
+    "main.8d381af9.js.map": "/reactchat/static/js/main.8d381af9.js.map",
+    "190.614d5098.chunk.js.map": "/reactchat/static/js/190.614d5098.chunk.js.map",
     "325.ee8c18b9.chunk.js.map": "/reactchat/static/js/325.ee8c18b9.chunk.js.map",
-    "372.ee5f093c.chunk.js.map": "/reactchat/static/js/372.ee5f093c.chunk.js.map",
-    "322.7e2f6aae.chunk.js.map": "/reactchat/static/js/322.7e2f6aae.chunk.js.map",
-    "216.60982dca.chunk.js.map": "/reactchat/static/js/216.60982dca.chunk.js.map",
-    "339.1ad69152.chunk.js.map": "/reactchat/static/js/339.1ad69152.chunk.js.map",
-    "819.8db99054.chunk.js.map": "/reactchat/static/js/819.8db99054.chunk.js.map",
-    "72.9d1a6ae7.chunk.js.map": "/reactchat/static/js/72.9d1a6ae7.chunk.js.map",
-    "55.8316ac5d.chunk.js.map": "/reactchat/static/js/55.8316ac5d.chunk.js.map",
-    "282.2b8715a5.chunk.js.map": "/reactchat/static/js/282.2b8715a5.chunk.js.map"
+    "372.f2b66e57.chunk.js.map": "/reactchat/static/js/372.f2b66e57.chunk.js.map",
+    "322.a5fbf632.chunk.js.map": "/reactchat/static/js/322.a5fbf632.chunk.js.map",
+    "339.ae02abd4.chunk.js.map": "/reactchat/static/js/339.ae02abd4.chunk.js.map",
+    "842.caee92dc.chunk.js.map": "/reactchat/static/js/842.caee92dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97f0d636.css",
-    "static/js/main.add8c07d.js"
+    "static/js/main.8d381af9.js"
   ]
 }
